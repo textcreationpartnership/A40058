@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four questions debated with an answer to the objection that the convention will not have the power of a Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40058</idno>
+            <idno type="STC">Wing F1668</idno>
+            <idno type="STC">ESTC R26140</idno>
+            <idno type="EEBO-CITATION">09369709</idno>
+            <idno type="OCLC">ocm 09369709</idno>
+            <idno type="VID">42865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42865)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four questions debated with an answer to the objection that the convention will not have the power of a Parliament.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>l689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Q.1. Whether the exercise of the govenment of England be totally subverted? Affirm, Q.2. Admitting the exercise of government dissolved, whether the power of setling is in the people?</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42865:1"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:42865:1"/>
+            <!-- PDF PAGE 110 -->
+            <p>Four Queſtions DEBATED.</p>
+            <list>
+               <item>
+                  <hi>Q.</hi> 1. Whether the Exerciſe of the Government of <hi>England</hi> be totally Subverted? <hi>Affirm.</hi>
+               </item>
+               <item>
+                  <hi>Q.</hi> 2. Admitting the Exerciſe of Government diſſolved, whether the power of Selling is in the People? <hi>Affirm.</hi>
+               </item>
+               <item>
+                  <hi>Q.</hi> 3. Whether as the Caſe ſtands it is beſt to ſettle the Exerciſe of the Government in the Perſon, who would be next by Lineal De<g ref="char:EOLhyphen"/>ſcent, if King <hi>James</hi> the Second was actually dead? <hi>Neg.</hi>
+               </item>
+               <item>
+                  <hi>Q.</hi> 4. Whether 'tis conſiſtent with the Prince's Ho<g ref="char:EOLhyphen"/>nour to accept of the Government, eſpecially conſidering his Declaration was to Redreſs Matters by a Free Parliament. <hi>Affirm.</hi>
+               </item>
+            </list>
+            <p>WITH An Anſwer to the Objection that the Conven<g ref="char:EOLhyphen"/>tion will not have the Power of a Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:42865:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <pb n="1" facs="tcp:42865:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <head>
+               <hi>Q. 1.</hi> Whether the Exerciſe of the Government of <hi>England</hi> be totally Subverted. <hi>Affirm.</hi>
+            </head>
+            <p>IT is neceſſary firſt to conſider what Government is, then what the Antient Conſtitution of the Govern<g ref="char:EOLhyphen"/>ment of <hi>England</hi> was.</p>
+            <p>I ſhall take Sir <hi>Robert Filmer</hi>'s definition of Govern<g ref="char:EOLhyphen"/>ment, becauſe he was a man, who endeavoured to maintain the utmoſt height of Kingly Power in <hi>England,</hi> and his definition is this, Government is the Exerciſe of a Moral Power.</p>
+            <p>The Antient Conſtitution of the Government of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> I take to be that which was agreed on by the King and all the People after the Heptarchy, when the <hi>Saxons</hi> moulded the Government, and choſe <hi>Alfred</hi> to be King, amongſt other things theſe were part of his Oath; viz. <hi>That he ſhould be obedient to ſuffer right</hi> (ab<g ref="char:EOLhyphen"/>beiſſant a ſuffre droit) <hi>as well as others of his people.</hi> And it was agreed that a Parliament ſhould be held twice every year at <hi>London,</hi> and this continued from that time to the time of King <hi>Edward</hi> the Second, as appears by <hi>Hornes</hi> Mirror of Juſtice, <hi>Cap.</hi> 1. <hi>Sect.</hi> 2. And in the ſame Section are theſe words, viz. <hi>Et tout ſoit que le Roy ne devoit aver nul peere en la terre, pur ceo nequidant que le Roy d'ſòit tort, ſi il pecha-vers aſcun d'ſon people, ne nul deſes comiſſairs ne poit eſtre Judge &amp; partee, convient per droit que le Roy uſt Compaignions pur oyer &amp; terminer aux Parliaments treſtouts les breves &amp; plaints de torts de la Roy de la Roign, &amp; de leur Infants &amp; de eux
+<pb n="2" facs="tcp:42865:3"/>
+                  <!-- PDF PAGE 112 -->eſpecialment de que torts l'en ne poit aver autrement common droit.</hi>
+            </p>
+            <p>And although the King ought not to have any Peer in the Realm, becauſe the King, if he offend againſt any of his People, none of his Commiſſa<g ref="char:EOLhyphen"/>ries may be Judge and Party; it behoveth by right, that the King have Companions to hear, and determine at Parliaments, all the Writs, and Plaints of the wrongs of the King, of the Queen, and their Infants, eſpecially of thoſe wrongs of which any cannot otherwiſe have common right.</p>
+            <p>And that Parliaments were held accordingly is mani<g ref="char:EOLhyphen"/>feſt, not only by the Authority of the Mirror, but by the Writs of Summons to Parliament in <hi>Edward</hi> the Firſt, Second and Third; and though there are affirma<g ref="char:EOLhyphen"/>tive Laws to hold Parliaments once every year, and once in three years, I know not of any Negative Law that there ſhall not be Parliaments as by the Conſtitution.</p>
+            <p>That King <hi>James</hi> the Second has totally Subverted the Exerciſe of Government, by Exerciſing an Arbitrary Power contrary to all Moral Power, and ſo the Exerciſe of Government is Subverted, I ſhall plainly demon<g ref="char:EOLhyphen"/>ſtrate both in Church and State.</p>
+            <list>
+               <item>Firſt in Church, By ſetting up the Eccleſiaſtical Com<g ref="char:EOLhyphen"/>miſſion, and thereby illegally proſtituting all the Clergy to an Arbitrary Power, with a <hi>Non obſtante</hi> to all Laws; this is directly againſt the Exerciſe of a Moral Power.</item>
+               <item>Secondly, By the Commiſſion to the Biſhop of <hi>Cheſter,</hi> Chief Juſtice <hi>Wright,</hi> and Juſtice <hi>Jenner,</hi> by which they turned out the Preſident, and many of the Fellows of <hi>Magdalen</hi> Colledge in <hi>Oxford,</hi> (the ſame Colledge where Queen <hi>Mary</hi> began to Tyrannize) to which may be added, the placing Papiſts in their Room, and putting <hi>Maſſey</hi> into the Deanry of <hi>Chriſt-Church,</hi> the great<g ref="char:EOLhyphen"/>eſt
+<pb n="3" facs="tcp:42865:3"/>
+                  <!-- PDF PAGE 112 -->Colledge in the Univerſity, and Dr. <hi>Walker</hi> in the Headſhip of Univerſity-Colledge. By this means Tray<g ref="char:EOLhyphen"/>tors were made Tutors to young Scholars, (for ſo are all <hi>Engliſhmen</hi> reconciled to the <hi>See</hi> of <hi>Rome</hi>) a ready means totally to Subvert the Reformed Religion and Go<g ref="char:EOLhyphen"/>vernment; for from Univerſities generally come great Officers in Church and State.</item>
+            </list>
+            <p>The diſpenſing power contrary to an act of Parlia<g ref="char:EOLhyphen"/>ment made on purpoſe to prevent Popery, and arbitrary power by preferring perſons in Eccleſiaſtical, Civil and Military affairs without taking the Teſt, by means where<g ref="char:EOLhyphen"/>of Papiſts ſat in Council with the King, Judges who have the executive power of the Law, and many made for particular illegal purpoſes were placed in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter-Hall,</hi> Sheriffs who had the power of Counties (ſeven of eight in one Circuit) being profeſſed Papiſts, and a great number of the Juſtices of the Peace of the ſame Religion, many Officers in the Army, and Soul<g ref="char:EOLhyphen"/>diers were diſplaced, and Roman Catholiques placed in their ſtead, and in <hi>Ireland</hi> by degrees, Proteſtants were put out, and Papiſts put in, and that Kingdom was to<g ref="char:EOLhyphen"/>tally in the power of Roman Catholiques.</p>
+            <p>Beſides, the King owns the Supremacy of the Pope, in all Eccleſiaſtical Affairs, whereas the Laws of <hi>England</hi> declare the King Supream in Matters Eccleſiaſtical and Civil, and the King owning the Supremacy of the Pope, is a ſetting up an arbitrary power in all matters of Reli<g ref="char:EOLhyphen"/>gion, for if he is Subject to the Pope, and all the Clergy ſwear Supremacy to the King, this is contradictory, to have two Supreams, one by the Law of the Land Legal<g ref="char:EOLhyphen"/>ly eſtabliſhed, and another raiſed by Arbitrary Power of the King deſtructive to the Conſtitution of the Church of <hi>England;</hi> theſe things manifeſtly tend to the putting all Power Eccleſiaſtical, Military and Civil into the hands of
+<pb n="4" facs="tcp:42865:4"/>
+               <!-- PDF PAGE 113 -->Papiſts, and the diſpenſing power at once ſets up Arbitary Power to deſtroy all the Laws, and makes the exerciſe of Moral power to ceaſe.</p>
+            <p>If it is objected, That all theſe things, though they are great miſdemeanors, yet they are but miſdeameanors which a Parliament may correct, but cannot amount to a ſubverſion of the exerciſe of Government.</p>
+            <p>I anſwer that although in fact the whole Eccleſiaſti<g ref="char:EOLhyphen"/>cal, Civil and Military power, was not yet actually veſt<g ref="char:EOLhyphen"/>ed in Papiſts (for then all muſt grant it ſubverted) yet the acts before mentioned totally ſubvert the exerciſe of Go<g ref="char:EOLhyphen"/>vernment and annihilate the Kingly Office to which there is not requiſite the actual deſtruction of all, but it ſets up an Arbitrary Tyrannical Power which may deſtroy all; and many an inſtance may be given, when without any actual wrong done upon the Biſhops and Clergy or the Nobles and Commons of the Land the exerciſe of Government may be ſubverted, as if the King ſhould ſend to the King of <hi>France,</hi> &amp;c. to Invade <hi>England,</hi> and deſtroy the Subjects of <hi>England,</hi> though no Engliſh man is hurt thereby, nor any <hi>French-man</hi> comes into <hi>England,</hi> vet the Government is totally ſubverted; for as King he's bound to protect his people, and when inſtead thereof, he invites others to deſtroy 'em, the exerciſe of Govern<g ref="char:EOLhyphen"/>ment is ſubverted, and the Truſt repoſed in the King for<g ref="char:EOLhyphen"/>feited, as if a Keeper of a Park Pulls down the Pales which ſhould keep in the Deer, he forfeits his Office.</p>
+            <p>If it is ſaid, He's King, and accountable to none but God, and Subjects muſt not rebel, nor reſiſt, but ſuffer and pray.</p>
+            <p>I Anſwer, his being King makes the Crime the grea<g ref="char:EOLhyphen"/>ter, for 'tis not ſo great a wickedneſs for a forreign King to deſtroy us, as for our own; for 'tis no breach of Truſt in the one, as 'tis plainly in the other; and what <hi>Junius
+<pb n="5" facs="tcp:42865:4"/>
+                  <!-- PDF PAGE 113 -->Brutus</hi> ſay's in his <hi>vindiciae contra Tyrannos,</hi> when he com<g ref="char:EOLhyphen"/>pares a Tyrant King to a Shepherd, deſtroying the Sheep, does he ſay, I am Shepherd, therefore I may deſtroy them? <hi>Junius</hi> ſays, <hi>Major lupus, quia paſtor, &amp; major tyrannusquia Rex,</hi> the greater Wolf becauſe a Shepherd, and the greater Tyrant becauſe a King.</p>
+         </div>
+         <div n="2" type="part">
+            <head>
+               <hi>Q. 2.</hi> Admitting the Exerciſe of Government diſſolved, whether the Power of Setling the Exerciſe of Government is in the People? <hi>Affirm.</hi>
+            </head>
+            <p>THo ſome have ſaid the preſent caſe to be the Demiſe of the King, that I deny, the Demiſe of the King being but a ſoft expreſſion of his death, and is onely pro<g ref="char:EOLhyphen"/>perly ſo when the King dies; and King <hi>James</hi> the Se<g ref="char:EOLhyphen"/>cond being alive, to call it a Demiſe of the King is a con<g ref="char:EOLhyphen"/>tradiction.</p>
+            <p>Then I argue thus, either the exerciſe of the Govern<g ref="char:EOLhyphen"/>ment is in King <hi>James</hi> the Second, or in ſome other per<g ref="char:EOLhyphen"/>ſon, or the power of ſetling it in the People; but it is not in Kings <hi>James</hi> the Second, for the reaſons before given and ſome other which follow; nor is it in any other per<g ref="char:EOLhyphen"/>ſon: Therefore it is in the power of the People to ſettle it. If any can ſay it is in any other perſon let, him aſſign that perſon, which he can't, becauſe there can he no claim by deſcent during his life, for <hi>Non eſt haeres vi<g ref="char:EOLhyphen"/>ventis,</hi> there muſt be the death of the Anceſtor before the Heir can claim any right.</p>
+            <p>
+               <pb n="6" facs="tcp:42865:5"/>
+               <!-- PDF PAGE 114 -->
+Then if there is none to claim any right; there muſt be a ſort of reverter to the people, who firſt choſe the King (as is plainly proved) or a greater abſurdity muſt follow, which is, that a People muſt remain without Go<g ref="char:EOLhyphen"/>vernment which I think no man will ſay, eſpecially in <hi>England</hi> where many hold Monarchy <hi>Jure divino,</hi> tho I underſtand not that, or any ſpecifical Government to be ſo, for then the <hi>Iſraelites</hi> Government would not as to the ſpecies of it have been ſo often changed; but Go<g ref="char:EOLhyphen"/>vernment in general may be ſaid of divine right, as of neceſſity; then if no perſon living can claim a legal right, they muſt conſent to the People to chuſe Repreſentatives to ſettle the exerciſe of the Government.</p>
+         </div>
+         <div n="3" type="part">
+            <head>
+               <hi>Q. 3.</hi> Whether as the Caſe ſtands it is beſt to Settle the Exerciſe of the Government in the Perſon, who would be next by Lineal Deſcent, if King <hi>James</hi> the Second was Actually dead? <hi>I Anſwer Negatively.</hi>
+            </head>
+            <p>BEfore I ſpeak to this Queſtion, I muſt ſay, Her Royal Highneſs the Princeſs of <hi>Orange,</hi> by what I have heard concerning her eminent zeal for God, and being an extraordinary, exemplary Pattern of Mora<g ref="char:EOLhyphen"/>lity; true is the proverb of <hi>Solomon,</hi> Many daughters have done vertuouſly, but ſhe excelleth them all; this looks like flattery, but if Univerſal report is true, her great humility and wiſdom leave no room for ſuch a vanity; I ſhall therefore plainly give my reaſons for my opinion.</p>
+            <pb n="7" facs="tcp:42865:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <list>
+               <item>1. The firſt is <hi>ab inconvenienti,</hi> the inconveniences which may follow at this time, (1.) the diſpute of the pretended Prince of <hi>Wales.</hi>
+               </item>
+               <item>2. If the two Princeſſes dye without iſſue, the Go<g ref="char:EOLhyphen"/>vernment will go to Papiſts, <hi>viz.</hi> to <hi>Spain,</hi> &amp;c.</item>
+               <item>3. Deſert is the beſt cauſe of reward, and who has deſerved moſt, ought to have moſt given; 'tis plain who has recovered <hi>England,</hi> and the conſequence is as plain.</item>
+               <item>4. The Princeſs has more advantage, than ſhe or her Siſter could expect; for the life of the King, and the claim of a Prince and Children, that may be of the King, make them at a more remote diſtance, than if he who recovered them, and the people be let in for his life, which is no more than the Law gives to a Husband by the Courteſie of <hi>England.</hi>
+               </item>
+               <item>5. He is next Heir Male, tho' not by Males.</item>
+               <item>6. A Princeſs, not ſo able to make War, the great end of <hi>Iſraels</hi> chooſing a King was to fight their Battles, which a Woman can't do.</item>
+               <item>7. The Allies engaged with the Prince to defend the Proteſtant Religion is very conſiderable, and if his Power ſhould ceaſe by the death of another, it would be dan<g ref="char:EOLhyphen"/>gerous.</item>
+               <item>8. Great ingratitude to put him in poſſibility of be<g ref="char:EOLhyphen"/>ing worſe, than if he had never come, for if the Princeſs dyes, he has no longer power to proceed.</item>
+               <item>9. 'Tis ungrateful to make him a ſubject in that Kingdom for which he has done more, than all the Kings of <hi>England</hi> ever did.</item>
+               <item>10. As his Power dyes, ſo his perſon may not be ſafe, if a ſubject; for he maybe indicted by any man.</item>
+               <item>11. May be in more hazard of Aſſaſſination.</item>
+               <item>12. The Lords and a great number of the Commons
+<pb n="8" facs="tcp:42865:6"/>
+                  <!-- PDF PAGE 115 -->who were legally choſen in former Parliaments, thought fit the publique adminiſtration ſhould be in the Prince.</item>
+            </list>
+            <p>I know ſome are of opinion to have the Prince and Princeſs, King and Queen, to which I only ſay, that ſuch joint-power in governing never was in <hi>England,</hi> and the conſequences are difficult (if poſſible) to judge, and tho ſome ſay the adminiſtration may be in the Prince only during the joint lives of the Prince and Princeſs. I an<g ref="char:EOLhyphen"/>ſwer, if the Princeſs is Queen, Regal Power is inſepara<g ref="char:EOLhyphen"/>ble from her perſon, as was ſaid by ſome, and not de<g ref="char:EOLhyphen"/>nied by any of the Judges in the caſe of Ship-mony, and it was ſaid to be a <hi>proprium quarto modo,</hi> which a King or Queen as ſuch muſt have, and then to have joint-power, will make both equal, and if they ſhould differ, what ſhould be done?</p>
+         </div>
+         <div n="4" type="part">
+            <head>
+               <hi>Q. 4.</hi> Whether 'tis conſiſtent with the Prince's Honour to accept of the Government, eſpecially conſidering his Declaration was to Redreſs Mat<g ref="char:EOLhyphen"/>ters by a Free Parliament?</head>
+            <p>I Anſwer, taking it for granted (which I need not) that at the Princes coming he could not, yet what the King did ſince his coming readers it clear and plain, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. The Kings own Judgment againſt himſelf for iſſu<g ref="char:EOLhyphen"/>ing Writs to Elect, proves he thought a Parliament of ne<g ref="char:EOLhyphen"/>ceſſity, and then deſtroying moſt of them, takes away the only remedy, and he which does ſo to a deſperately ſick
+<pb n="9" facs="tcp:42865:6"/>
+                  <!-- PDF PAGE 115 -->man, murthers him as ſure, as he who ſtabbs him to the heart.</item>
+               <item>2. Then the taking the great Seal and carrying it no man knows whither, ſtayes the Spring of Juſtice, ſo that no Originals out of the Chancery can be filed for the Subject to have relief in any real Action; nor in ma<g ref="char:EOLhyphen"/>ny perſonal Actions where Original Writs are requiſite.</item>
+               <item>3. His going with Sir <hi>Edward Hales</hi> a perſon notorious being ſet up to maintain the Arbitrary Diſpenſing Power, juſtifies his Diſpenſing Power ſtill, by theſe he has brought the power into the people whoſe Repreſentatives have the right of ſetling the Government as in wiſdom ſhall be thought fit; for though ſome object it cannot be, for want of a Writ to call them, yet upon long Debate in the Houſe of Commons, when this Objection was ſtart<g ref="char:EOLhyphen"/>ed, the Lord Chief Juſtice <hi>Hales</hi> ſaid, <hi>That though he would not maintain the Commons called according to Form by Writ, yet they being met were a good Houſe of Commons,</hi> for the Parliament is not the Kings, <hi>&amp;c.</hi>—but the Parliament of <hi>England,</hi> and they being duly choſen by the People, were the Legal Repreſentatives of the Peo<g ref="char:EOLhyphen"/>ple to Act as a Parliament, and to ſay the Convention has Power to ſettle the Government if ſelf, as to the Exerciſe, and not to have the force of a Parliament, ſeems ſtrange; beſides, no man can ſay but this Conven<g ref="char:EOLhyphen"/>tion will be a Supream Power, and for the Supream Power to have any thing Legal to be above their reach, is to ſay they are Supream, yet there is ſomething above their Power, <hi>&amp; cujus eſt dare ejus eſt diſponere,</hi> if they have Power to give the Exerciſe of the Government it ſelf, which is the higheſt Act, and not to be able to make Laws for the Eſtabliſhing, and the manner of Ex<g ref="char:EOLhyphen"/>erciſe, oppoſes that plain Maxim.</item>
+            </list>
+            <pb n="10" facs="tcp:42865:7"/>
+            <!-- PDF PAGE 116 -->
+            <p>To conclude, The extraordinary Providence of God, whoſe Wonders His Highneſs has ſeen in preſerving Him and the Fleet in the Deeps, and what we have heard and ſeen ſince he came on Shore, makes it appa<g ref="char:EOLhyphen"/>rent that the Lord hath ſent him, and it would make a Heathen (like <hi>Nebuchadnezzar</hi>) confeſs it, becauſe no other God can deliver after this ſort, and the works of God being all perfect, it is to be hoped, that there are yet greater things to be done by him, for the refining and reforming Matters in Church and State. <hi>England</hi> had <hi>Lucius</hi> the firſt Chriſtian King, as moſt ſay. <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> the firſt Chriſtian Emperor was Born here; the firſt Reformation began here, and who knows, but what is remaining, <hi>viz.</hi> the refining of all things (which the beſt want) may be accompliſh'd here to the Glory of God, and the honour of him who he has ſent. I wiſh he may put him upon whoſe Shoulders the Govern<g ref="char:EOLhyphen"/>ment of all things in Heaven and Earth is laid, into the poſſeſſion of his inheritance to the uttermoſt ends of the Earth.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42865:7"/>
+            <!-- PDF PAGE 116 -->
+         </div>
+      </body>
+   </text>
+</TEI>
